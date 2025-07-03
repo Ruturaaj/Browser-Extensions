@@ -17,31 +17,30 @@ To identify and remove potentially harmful or unnecessary browser extensions in 
 
 ### Step 1: Access Browser Extensions
 Opened `chrome://extensions/` to view all installed extensions.  
-![Installed Extensions](./screenshots/1_extensions_list.jpg)
+
 
 ---
 
 ### Step 2: Inspect Extension Permissions
 Each extension's permission set was reviewed for high-risk access like reading site data.  
-![Extension Details](./screenshots/2_extension_details.jpg)
+
 
 ---
 
 ### Step 3: Identify and Remove Suspicious Extensions
 Adobe Acrobat was identified as unnecessary and removed to reduce risk.  
-![Removal Prompt](./screenshots/3_removal_prompt.jpg)
+
 
 ---
 
 ### Step 4: Verify and Restart
 Browser was restarted and verified for cleaner and minimal extension usage.  
-![Final Extensions](./screenshots/4_final_list.jpg)
+
 
 ---
 
 ### Step 5: Research – Malicious Extension Threats
 Studied how extensions can steal data, slow systems, or inject spyware.  
-![Malicious Extension Guide](./screenshots/5_research_article.jpg)
 
 ---
 
